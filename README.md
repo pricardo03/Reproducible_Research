@@ -1,6 +1,3 @@
-# Reproducible_Research
-First assigment, to view the markdown with code, documentation and plots just clic on PA_Template.md File for easy code review
-
 ---
 title: "Reproducible Research: Peer Assessment 1"
 author: "Ricardo Estrada"
@@ -10,6 +7,8 @@ output:
     keep_md: true
 ---
 
+# Reproducible_Research
+First assigment, to view the markdown with code, documentation and plots just clic on PA_Template.md File for easy code review
 
 ## Loading and preprocessing the data
 
